@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> comeback is graterrrrrrrrrr than setback</h2>
+      <h2> comeback is graterrr than setback</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
